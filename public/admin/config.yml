@@ -1,5 +1,5 @@
 backend:
-  name: git-gateway
+  name: github
   repo: pirzol/nextjs-netlify-blog-template
   branch: master
 media_folder: public/images
