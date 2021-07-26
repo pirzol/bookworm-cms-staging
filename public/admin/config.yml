@@ -6,6 +6,11 @@ backend:
 media_folder: public/images
 public_folder: /images
 publish_mode: editorial_workflow
+media_library:
+  name: cloudinary
+  config:
+    cloud_name: plantscope
+    api_key: 215868654272683
 slug:
   sanitize_replacement: "_"
 collections:
