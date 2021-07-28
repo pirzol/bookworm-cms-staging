@@ -175,6 +175,7 @@ collections:
           - { label: 'רמה 3', value: 'bw_lev_3' }
           - { label: 'רמה 4', value: 'bw_lev_4' }
           - { label: 'רמה 5', value: 'bw_lev_5' }
+          - { label: 'רמה 6', value: 'bw_lev_6' }
       - label: 'Cover Image'
         name: 'image'
         widget: 'image'
