@@ -181,3 +181,12 @@ collections:
         widget: 'image'
         required: false
         tagname: ''
+
+  - name: testing
+    label: Testing
+    folder: /content/testing
+    fields:
+      - name: title
+        label: Title
+        widget: string
+
