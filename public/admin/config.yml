@@ -185,6 +185,7 @@ collections:
   - name: testing
     label: Testing
     folder: /content/testing
+    create: true
     fields:
       - name: title
         label: Title
